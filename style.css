@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+ 
+header {
+    background-color: rgb(71, 71, 71);
+    height: 100px;
+
+}
+header img {
+    margin-left: 100px;
+    float: left;
+    margin-top: 15px;
+}
+
+
+header nav ul { 
+    position: relative;
+}
+
+header nav ul li  {
+    display: inline-block;
+    margin: 40px;
+    padding-left: 25px;
+    padding-right: 35px;
+
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: rgb(133, 133, 133);
+    font-weight: bold;
+    font-size: 23px;
+    
+}
+
+
+
+
+    
+
+
+
+#image960 {
+    position: relative;
+    left: 25%;
+    margin: 40px;
+
+}
+
+.imagessub1 {
+    clear: both;
+    margin-left: 507px;   
+}
+
+.imagessub {
+    margin: 12px;
+}
+
+.Featured {
+    margin-left: 507px;
+    float: left;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.Featured-right {
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 430px;
+    margin-bottom: 20px;
+    margin-left: 1015px;
+
+}
+
+.paragraph {
+    font-size: 22px;
+    margin-right: 430px;
+    background-color: rgb(105, 105, 105);
+    width: 400px;
+    height: 300px;
+    overflow: auto;
+    color: rgb(245, 216, 86);
+    margin-left: 1015px;    
+}
+    
+
+
+.call {
+    font-size: 25px;
+    border: solid black 1px;
+    margin-left: 1015px;
+    margin-right: 700px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 15px;
+    
+}
+
+
+
+.call:hover{
+    background-color: rgb(126, 121, 121);
+}
+
+.lastDiv {
+    padding-bottom: 5%;
+    
+
+}
+
+footer{
+    position: relative;
+    background-color: rgb(71, 71, 71);
+    height: 100px;
+          
+}

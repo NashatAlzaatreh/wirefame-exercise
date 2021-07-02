@@ -50,7 +50,7 @@ header nav ul li a {
 
 .imagessub1 {
     clear: both;
-    margin-left: 507px;   
+    margin-left: 600px;   
 }
 
 .imagessub {
@@ -58,19 +58,21 @@ header nav ul li a {
 }
 
 .Featured {
-    margin-left: 507px;
+    margin-left: 615px;
     float: left;
-    margin-top: 30px;
-    margin-bottom: 100px;
+    margin-top: 0px;
+    
 }
 
 .Featured-right {
-    font-size: 30px;
-    margin-left: 50px;
-    margin-top: 30px;
-    margin-right: 430px;
-    margin-bottom: 20px;
-    margin-left: 1015px;
+    font-size: 25px;
+    margin-left: 1140px;
+    margin-top: 40px;
+    
+    margin-bottom: 7px;
+    font-weight: bolder;
+    color: rgb(61, 61, 61);
+    
 
 }
 
@@ -78,11 +80,11 @@ header nav ul li a {
     font-size: 22px;
     margin-right: 430px;
     background-color: rgb(105, 105, 105);
-    width: 400px;
-    height: 300px;
+    width: 440px;
+    height: 305px;
     overflow: auto;
     color: rgb(245, 216, 86);
-    margin-left: 1015px;    
+    margin-left: 1140px;    
 }
     
 
@@ -90,12 +92,13 @@ header nav ul li a {
 .call {
     font-size: 25px;
     border: solid black 1px;
-    margin-left: 1015px;
-    margin-right: 700px;
+    margin-left: 1140px;
+    margin-right: 950px;
     padding: 10px;
     background-color: black;
     color: white;
-    padding-left: 15px;
+    padding-left: 20px;
+    margin-top: 9px;
     
 }
 

@@ -37,68 +37,77 @@ header nav ul li a {
 
 
 
-    
+ main { 
+    position: relative;
+ }   
 
 
 
 #image960 {
-    position: relative;
-    left: 25%;
+    position: absolute;
+    left: 15%;
     margin: 40px;
 
 }
 
 .imagessub1 {
+    position: absolute;
     clear: both;
-    margin-left: 600px;   
+    top: 520px;
+    left: 240px;
+    
+
 }
 
 .imagessub {
-    margin: 12px;
+    padding-left: 27px;
 }
 
+
+
 .Featured {
-    margin-left: 615px;
-    float: left;
-    margin-top: 0px;
-    
+    position: absolute;
+    top: 920px;
+    left: 17.5%;
+
 }
 
 .Featured-right {
-    font-size: 25px;
-    margin-left: 1140px;
-    margin-top: 40px;
-    
-    margin-bottom: 7px;
+    position: absolute;
+    top: 920px;
+    font-size: 25px;    
     font-weight: bolder;
     color: rgb(61, 61, 61);
-    
-
+    left: 50.5%;
 }
 
 .paragraph {
-    font-size: 22px;
-    margin-right: 430px;
+    position: absolute;
+    top: 950px;
+    font-size: 22px;    
     background-color: rgb(105, 105, 105);
-    width: 440px;
-    height: 305px;
+    width: 460px;
+    height: 312px;
     overflow: auto;
     color: rgb(245, 216, 86);
-    margin-left: 1140px;    
+    left: 50.5%;
+    
+    
 }
     
 
 
 .call {
+    position: absolute;
+    top: 1263px;
     font-size: 25px;
-    border: solid black 1px;
-    margin-left: 1140px;
-    margin-right: 950px;
+    border: solid black 1px;   
     padding: 10px;
     background-color: black;
     color: white;
     padding-left: 20px;
     margin-top: 9px;
+    left: 50.5%;
     
 }
 
@@ -108,15 +117,13 @@ header nav ul li a {
     background-color: rgb(126, 121, 121);
 }
 
-.lastDiv {
-    padding-bottom: 2%;
-    
 
-}
 
 footer{
-    position: relative;
+    position: absolute;
     background-color: rgb(71, 71, 71);
     height: 100px;
+    top: 1450px;
+    width: 100%;
           
 }
